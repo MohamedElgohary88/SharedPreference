@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="enter_your_number">- Enter Your Number</string>
+    <string name="save">حفظ الرقم</string>
+    <string name="show">عرض الرقم</string>
+    <string name="number">00000000000</string>
+</resources>
